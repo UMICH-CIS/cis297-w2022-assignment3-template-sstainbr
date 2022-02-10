@@ -1,0 +1,7 @@
+D:\DESKTOP\School\computer\c#\cis297-w2022-assignment3-template-sstainbr\BankApplication\bin\Debug\BankApplication.exe.config
+D:\DESKTOP\School\computer\c#\cis297-w2022-assignment3-template-sstainbr\BankApplication\bin\Debug\BankApplication.exe
+D:\DESKTOP\School\computer\c#\cis297-w2022-assignment3-template-sstainbr\BankApplication\bin\Debug\BankApplication.pdb
+D:\DESKTOP\School\computer\c#\cis297-w2022-assignment3-template-sstainbr\BankApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+D:\DESKTOP\School\computer\c#\cis297-w2022-assignment3-template-sstainbr\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+D:\DESKTOP\School\computer\c#\cis297-w2022-assignment3-template-sstainbr\BankApplication\obj\Debug\BankApplication.exe
+D:\DESKTOP\School\computer\c#\cis297-w2022-assignment3-template-sstainbr\BankApplication\obj\Debug\BankApplication.pdb
